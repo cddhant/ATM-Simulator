@@ -1,5 +1,10 @@
 # ATM-Simulator
 
+A simple ATM Simulator which performs the following actions:
+1. Check Balance
+2. Deposit Money
+3. Withdraw Money
+
 ## Screenshots
 
 ### Insert Card
